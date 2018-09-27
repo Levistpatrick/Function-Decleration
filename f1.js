@@ -32,7 +32,8 @@ function plusplus(a){
 // (3) Third Task
 // Declare a function named oppRecip() which outputs the opposite reciprocal of the input number.
 function oppRecip (b){
-    return b*2
+    let total= (b*2)
+    return ("repricical")
 }
 
 
@@ -45,7 +46,7 @@ function oppRecip (b){
 // Declare a function named pthagorean() which has two inputs you guessed it a and b.
 // The function outputs the value of the third side of the right triangle.
 function pthagoren(a,b){
-    return (a*a)+(b+b)
+    return (a*a)+(b*b)
 }
 
 
@@ -55,6 +56,7 @@ function pthagoren(a,b){
 // Declare a function named circleArea() which has one input named radius.
 // The function outputs the area of the circle.
 fuction circleArea (radius){
+    let total=(3.14*r*2)
     return (circle)
 }
 
@@ -66,8 +68,9 @@ fuction circleArea (radius){
 // (6) Sixth Task
 // Declare a function named boxVolume() which has three inputs: length, width, and depth.
 // The function outputs the volume of the box;ssss
-fuction boxVolume(lenght*width*depth){
-return (volume)
+fuction boxVolume(x){
+let total=(lenght*width*depth)
+    return (volume)
 }
 
 
@@ -84,7 +87,8 @@ return (volume)
 // Declare a function named thisIsMadness() which accepts one string input named city.
 // The function should output the string: "No! This is <city>!!"
 fuction thisIsMadness(city){
-return ("No! This is city!!")
+let total= ("No!+This+is+city!!")
+    return ("No! This is city!!")
 }
 
 
@@ -96,6 +100,7 @@ return ("No! This is city!!")
 // Declare a function named yo() which accepts one string input named fam.
 // The function should output the string: "yo <fam>!  What's good <fam>??"
 fuction yo(fam){
+    let total ("yo+fam!+What's+good+fam??")
     return ("yo fam! What's good fam??")
 }
 
@@ -109,7 +114,8 @@ fuction yo(fam){
 // Declare a function named beefDay() which has no inputs.
 // This function should output a long string, IN ALL CAPS, of "BEEF DAY" with lots of extra E's, F's, A's, and Y's
 fuction beefDay(X){
-    return "BEEE"+"EEE"+"FFFF"+"DAAA"+"YYY"
+    let total = ("BEEE"+"EEE"+"FFFF"+"DAAA"+"YYY")
+    return "beefDay"
 
 
 
@@ -124,7 +130,7 @@ fuction beefDay(X){
 // Declare a function named xor() which has two inputs a and b.
 // This function returns the exclusive or of the two boolean inputs.
 fuction xor(a,b){
-    return(a&&(!b))//(a&&bb!)  
+    return(a&&(!b)) 
 }
 
 
